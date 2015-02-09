@@ -498,6 +498,7 @@
 	background: url(../images/portada.jpg);
 	background-size: auto 100%;
 	background-position: center center;
+	background-attachment: fixed;
 
 	 
 	

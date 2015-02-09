@@ -1,6 +1,6 @@
 var disqus_shortname = 'juanfutbol';
 var disqus_identifier;
-var disqus_url="la-dictadura-de-la-tv";
+var disqus_url="32f0781c-275f-4eac-b19f-32db292d0eb0";
 var disqus_number_c=2;
 var disqus_per_page=3;
 var tamaño_total=1920;

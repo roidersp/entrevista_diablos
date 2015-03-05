@@ -26,6 +26,11 @@
 	overflow: hidden;
 }
 
+.indepth_creditos{
+	font-size: 11px;
+	margin-top: 5px;
+}
+
 .indepth_docs_content{
 	width: 800%;
 	position: relative;
